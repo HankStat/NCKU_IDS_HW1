@@ -1,2 +1,3 @@
 # NCKU_IDS_HW1
-pandas &amp; k means implementation
+## k means implementation
+## details of homework : hw1_purchase.html
